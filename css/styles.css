@@ -17,3 +17,20 @@
     height: 40vh;
     padding-top: 100px;
 }
+.contact{
+    background-image: url(/IP3-master/assets/backgrounds/c_image.jpg);
+}
+#noah, #hank{
+    background: none;
+}
+.fire{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#kali, #kali1, #kali2, #kali3, #kali4, #kali5, #kali6, #kali7{
+    text-align: center;
+    position: absolute;
+    font-size:100%;
+    cursor: progress;
+} 
