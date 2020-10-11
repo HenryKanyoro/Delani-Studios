@@ -24,3 +24,8 @@ $(document).ready(function () {
          $(".plate").show(550);
     });
 });
+$(document).ready(function() {
+     $(".photo").hover(function(){
+          $("#kali").toggle(150,);
+     });
+})
