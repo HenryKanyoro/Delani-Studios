@@ -1,0 +1,9 @@
+.head{
+    background-image: url(/IP3-master/assets/backgrounds/h_img.jpg);
+    background-size: cover;
+    color: white;
+    background-position-x: center;
+    height: 60vh;
+    padding-top: 200px;
+    
+}
