@@ -38,8 +38,9 @@
     background: rgba(13, 23, 32, 0.54);
     color: white;
     font-size:24px;
-    margin-left: 17%;
-    margin-top: 17%;
+    margin-left: 15%;
+    margin-top: 15%;
+    display: none;
 } 
 .card img{
     width: 250px;

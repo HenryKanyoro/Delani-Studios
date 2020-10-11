@@ -24,8 +24,32 @@ $(document).ready(function () {
          $(".plate").show(550);
     });
 });
+
+
+
 $(document).ready(function() {
      $(".photo").hover(function(){
-          $("#kali").toggle(150,);
+          $("#kali").toggle();
      });
-})
+     $(".photo1").hover(function(){
+          $("#kali1").toggle();
+     });
+     $(".photo2").hover(function(){
+          $("#kali2").toggle();
+     });
+     $(".photo3").hover(function(){
+          $("#kali3").toggle();
+     });
+     $(".photo4").hover(function(){
+          $("#kali4").toggle();
+     });
+     $(".photo5").hover(function(){
+          $("#kali5").toggle();
+     });
+     $(".photo6").hover(function(){
+          $("#kali6").toggle();
+     });
+     $(".photo7").hover(function(){
+          $("#kali7").toggle();
+     });
+});
