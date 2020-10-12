@@ -53,3 +53,17 @@ $(document).ready(function() {
           $("#kali7").toggle();
      });
 });
+$(document).ready(function(event){
+     $("#mc-embedded-subscribe-form").submit(function(){
+          var name = $("input#hank").val();
+          var email = $("input#noah").val();
+          var message =$ ("textarea#hulk").val();
+          if ($("input#hank").val() && $("input#noah").val()){
+               alert(name + "your message has been received. thank you for your feedback");
+          }
+          else{
+               alert("please enter your info below.your name and email.")
+          }
+          event.preventDefault();
+     });
+});

@@ -2,7 +2,7 @@
     text-align: center;
 }
 .head{
-    background-image: url(/IP3-master/assets/backgrounds/h_img.jpg);
+    background-image: url(../IP3-master/assets/backgrounds/h_img.jpg);
     background-size: cover;
     color: white;
     background-position-x: center;
@@ -11,14 +11,14 @@
     
 }
 .services{
-    background-image: url(/IP3-master/assets/backgrounds/s_image.jpg);
+    background-image: url(../IP3-master/assets/backgrounds/s_image.jpg);
     background-size: cover;
     color: white;
     height: 40vh;
     padding-top: 100px;
 }
 .contact{
-    background-image: url(/IP3-master/assets/backgrounds/c_image.jpg);
+    background-image: url(../IP3-master/assets/backgrounds/c_image.jpg);
 }
 #noah, #hank{
     background: none;
